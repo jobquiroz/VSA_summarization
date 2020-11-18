@@ -16,3 +16,5 @@ This repository contains the following notebooks and directories:
 - Precalc_distances/: Used for saving time when doing several experiments with Calling_summarize.ipynb
 
 
+All notebooks mainly use standard Python 3 libraries except for Spacy (https://spacy.io/).
+We use the pretrained model *'en_core_web_lg'*
